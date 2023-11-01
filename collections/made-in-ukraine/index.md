@@ -53,6 +53,13 @@ items:
  - ttag-org/ttag
  - vmagamedov/grpclib
  - angrymouse/remote-functions
+ - react-bootstrap/react-bootstrap
+ - avajs/ava
+ - graphql/graphql-js
+ - Redocly/redoc
+ - retejs/rete
+ - javadev/underscore-java
+ - javadev/LeetCode-in-Java
 
 display_name: Made in Ukraine
 image: made-in-ukraine.png

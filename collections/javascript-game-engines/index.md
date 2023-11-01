@@ -6,7 +6,7 @@ items:
  - gamelab/kiwi.js
  - craftyjs/Crafty
  - liabru/matter-js
- - shakiba/stage.js
+ - piqnt/stage.js
  - cocos2d/cocos2d-html5
  - playcanvas/engine
  - BabylonJS/Babylon.js
@@ -14,7 +14,7 @@ items:
  - qiciengine/qiciengine
  - WhitestormJS/whs.js
  - GooTechnologies/goojs
- - shakiba/planck.js
+ - piqnt/planck.js
  - Irrelon/ige
  - 4ian/GDevelop
  - mrdoob/three.js
@@ -22,6 +22,7 @@ items:
  - Cloud9c/taro
  - replit/kaboom
  - straker/kontra
+ - jay19240/Haiku
 display_name: JavaScript Game Engines
 created_by: leereilly
 ---

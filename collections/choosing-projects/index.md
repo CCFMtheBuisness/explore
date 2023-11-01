@@ -7,6 +7,12 @@ items:
  - SerenityOS/serenity
  - komodorio/helm-dashboard
  - cloudquery/cloudquery
+ - EddieHubCommunity/BioDrop
+ - Ileriayo/markdown-badges
+ - embedchain/embedchain
+ - Codecademy/docs
+ - open-sauced/guestbook 
+ - firstcontributions/first-contributions
 display_name: How to choose (and contribute to) your first open source project
 created_by: kytrinyx
 ---
